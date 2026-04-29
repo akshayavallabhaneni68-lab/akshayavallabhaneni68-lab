@@ -40,4 +40,3 @@ Skilled in analyzing data, identifying patterns, and building dashboards to supp
 
 📧 Email: akshayavallabhaneni68@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/akshaya-vallabhaneni-615056320  
-🐙 GitHub: https://github.com/akshayavallabhaneni68-lab
